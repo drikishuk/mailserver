@@ -1,6 +1,6 @@
 const config = {
-  csvName: "potions.csv", // e.g. data.csv
-  template: "potions", // e.g. welcome
+  csvName: "goblin.csv", // e.g. data.csv
+  template: "goblin", // e.g. welcome
 }
 
 module.exports = config;
